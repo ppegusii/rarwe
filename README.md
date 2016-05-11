@@ -3,6 +3,10 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+## Description
+
+Learning Ember via Rock and Roll with Ember 2.5.0
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
