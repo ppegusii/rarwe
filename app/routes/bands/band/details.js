@@ -24,5 +24,11 @@ export default Ember.Route.extend({
         }
       }
     },
+
+    save: function(){
+      var controller = this.get('controller');
+      var band = controller.get('model');
+      return band.save();
+    },
   },
 });
